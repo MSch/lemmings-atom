@@ -1,10 +1,9 @@
 {
   "name": "lemmings",
   "main": "./lib/lemmings",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Meta-package for lemmings.io",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/MSch/lemmings-atom",
   "license": "MIT",
   "engines": {
