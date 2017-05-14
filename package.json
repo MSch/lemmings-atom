@@ -17,7 +17,7 @@
     "proto-repl-charts",
     "proto-repl-sayid",
     "ink",
-    "parinfer",
+    "Parinfer",
     "file-icons"
   ]
 }
