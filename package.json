@@ -1,0 +1,23 @@
+{
+  "name": "lemmings",
+  "main": "./lib/lemmings",
+  "version": "0.0.0",
+  "description": "Meta-package for lemmings.io",
+  "keywords": [
+  ],
+  "repository": "https://github.com/MSch/lemmings-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-deps": "^4.0.1"
+  },
+  "package-deps": [
+    "proto-repl",
+    "proto-repl-charts",
+    "proto-repl-sayid",
+    "ink",
+    "parinfer"
+  ]
+}
